@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Strings related to the main activity -->
+    <string name="app_name">Application</string>
+    <string name="welcome_string">Benvenuto nell\'applicazione</string>
+    <string name="mainButton_string">Clicca qui\!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Strings related to login and register activities -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_rptpassword">Conferma Password</string>
+    <string name="action_sign_in">Effettua il login</string>
+    <string name="action_register">Registrati</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Questo indirizzo email non è valido\!</string>
+    <string name="error_invalid_password">Questa password è troppo breve\!</string>
+    <string name="error_incorrect_access">Utenza inserita inesistente\!</string>
+    <string name="error_incorrect_password">La password inserita non è corretta\!</string>
+    <string name="error_field_required">Questo campo è richiesto\!</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <string name="title_activity_register">Registrazione</string>
+    <string name="title_activity_primary">PrimaryActivity</string>
+    <string name="title_activity_side_menu">SideMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to fragments -->
+    <string name="hello_world">Hello world!</string>
+    <string name="landscape_message">This is Landscape mode fragment</string>
+    <string name="portrait_message">This is Portrait mode fragment></string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

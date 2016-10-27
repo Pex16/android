@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Fotocamera" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Galleria" />
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@drawable/ic_menu_event_black"
+            android:title="Eventi" />
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/ic_menu_maps"
+            android:title="Mappa" />
+    </group>
+
+    <item android:title="Info e Opinioni">
+        <menu>
+            <item
+                android:id="@+id/feedback_share"
+                android:icon="@drawable/ic_menu_feedback_black"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/forum_send"
+                android:icon="@drawable/ic_menu_forum_black"
+                android:title="Forum" />
+        </menu>
+    </item>
+
+</menu>
